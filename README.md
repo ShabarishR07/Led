@@ -1,2 +1,2 @@
-# Led - Blink Challenge using ESP32
+# Day 1 Led - Blink Challenge using ESP32
 ESP32 Led Blink Challenge solution. Controls the onboard LED (GPIO 2) to blink continuously at 1-second intervals (1s ON, 1s OFF). The circuit configuration, GPIO output logic, and timing were fully verified using the Wokwi simulator before physical hardware deployment. Built using Wokwi Online Simulator.
